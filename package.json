@@ -1,0 +1,25 @@
+{
+  "name": "table-builders",
+  "version": "1.0.0",
+  "description": "A set of  algorithms to construct a complex html table from input from various input formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terminological/npm-modules.git"
+  },
+  "keywords": [
+    "table",
+    "yaml",
+    "json",
+    "csv"
+  ],
+  "author": "Rob Challen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terminological/npm-modules/issues"
+  },
+  "homepage": "https://github.com/terminological/npm-modules#readme"
+}
